@@ -1,0 +1,33 @@
+h1{
+    color: white    ;
+}
+p{
+    color: #f8f8f8
+}
+
+#form{
+    background-color: #4c4c80;
+    padding: 5% 15%;
+}
+
+form{
+    padding:1rem;
+    background-color: rgb(15, 15, 46);
+    color: #fff;
+}
+
+form label{
+    font-size: 1.1rem;
+    margin:1rem 0 ;
+    font-weight: bold;  
+}
+
+.form-wrapper{
+    margin: 1rem;
+}
+
+@media screen and (max-width:1200px) {
+    #form-width-control{
+        width: 100% !important;
+    }
+}
